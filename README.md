@@ -31,3 +31,5 @@ The purpose of this project was to help one of BigMarket’s clients, SellBy to 
     
     
 ## Summary
+After reviewing the data and comparing the paid and the unpaid reviews, there is no positive bias for reviews in the Vine program. The data shows that there are more non-Vine members inputting reviews compared to the Vine members. As shown in the data, there were only 222 5-star reviews for Vine members and 30,543 5-star reviews for non-Vine members. If we compare the percentage, Vine members were 36% shown to write 5-star reviews while non-Vine members had 47%. One additional analysis that could be done to support the statement above would be measuring the mean, median, and standard deviation of the total number of reviews for both Vine and non-Vine members.
+dcjkdf c

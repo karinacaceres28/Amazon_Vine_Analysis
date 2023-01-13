@@ -7,10 +7,17 @@ The purpose of this project was to help one of BigMarket’s clients, SellBy to 
 
 ### Figure 1: Total Reviews -- Paid vs Unpaid
 <img width="462" alt="Total Reviews Paid:Unpaid" src="https://user-images.githubusercontent.com/110318652/212209414-7a273a5f-3a2e-44ca-b6a5-8d296f3eba5f.png">
+    •	Top portion shows total number of paid reviews shows a total of 613.
+    •	Bottom portion shows the total number of unpaid reviews is 64,968.
+
 
 ### Figure 2: Total Number of 5 Star Reviews -- Paid vs Unpaid
 <img width="938" alt="Total Number of 5 Star Reviews Paid:Unpaid" src="https://user-images.githubusercontent.com/110318652/212209413-93787fc2-c01a-4718-baa5-010b40e30991.png">
+    •	Top portion of the image shows the total number of 5-stars reviews for paid reviews is 222.
+    •	Bottom portion of image shows the total number if 5-stars reviews for unpaid reviews is 30,543.
 
 
 ### Figure 3: Total Percentage of 5 Star Reviews -- Paid vs Unpaid
 <img width="728" alt="Total Percentage of 5 Star Reviews Paid:Unpaid" src="https://user-images.githubusercontent.com/110318652/212209411-358661e7-8a83-47a9-97c4-8b74722ce33b.png">
+    •	Top portion of figure shows the total percentage of 5-stars reviews for paid reviews is 36%.
+    •	Bottom portion of figure shows the total percentage of 5-star reviews for unpaid reviews is 47%.

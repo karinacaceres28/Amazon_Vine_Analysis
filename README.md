@@ -27,3 +27,7 @@ The purpose of this project was to help one of BigMarket’s clients, SellBy to 
     •	Top portion of figure shows the total percentage of 5-stars reviews for paid reviews is 36%.
     
     •	Bottom portion of figure shows the total percentage of 5-star reviews for unpaid reviews is 47%.
+    
+    
+    
+## Summary
